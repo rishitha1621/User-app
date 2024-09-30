@@ -1,0 +1,5 @@
+Username,User Type,First Name,Last Name,Password,Date of Birth,Gender,Email,Phone Number,Address,City,State,Postal Code,Aadhaar Number,PAN Number,Registration Date
+user1,Retailer,John,Doe,pass123,1990-01-01,Male,john@example.com,1234567890,123 Elm St,Anytown,CA,12345,1234 5678 9012,ABCDE1234F,2023-01-01
+user2,Retailer,Jane,Smith,pass456,1992-05-15,Female,jane@example.com,2345678901,456 Oak St,Othertown,NY,67890,2345 6789 0123,FGHIJ5678K,2023-02-01
+user3,Retailer,Alice,Johnson,pass789,1988-11-30,Female,alice@example.com,3456789012,789 Pine St,Sometown,TX,10112,3456 7890 1234,JKLMN9012P,2023-03-01
+ennie,Retailer,ennie,norra,9999,2024-09-29,Female,aaa@gmail.com,87634923,yelid,ohio,hyd,87323,982634982,WW87629,2024-09-29
